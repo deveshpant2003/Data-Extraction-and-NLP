@@ -1,0 +1,16 @@
+Changes to make before running the file:
+
+Replace 'Input.xlsx - Sheet1.csv' with the desired location of the input file within your local machine. 
+
+Replace 'C:\Users\deves\Downloads\drive-download-20241019T130625Z-001' with the desired location of the folder containing the list of stop words within your local machine.
+
+Create a folder for the text files that would be created after removing the stop fords from the extracted text. Replace "C:\Users\deves\Documents\Intern Project\Clean text" with the location of this folder.
+
+Replace "C:\Users\deves\Documents\Intern Project" with the location of the directory in which you are running the executable script.
+
+Replace "C:\Users\deves\Downloads\Master Dictionary\negative-words.txt" with the location of the file containing the negative words.
+
+Replace "C:\Users\deves\Downloads\Master Dictionary\positive-words.txt" with the location of the file containing the positive words.
+
+The script is ready for execution!
+
