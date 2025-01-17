@@ -27,13 +27,13 @@ The **'Text Analysis.docx'** file provides the definition of each of these varia
 
 ## Overview of the contents of this repository
 
--**Master Dictionary:** The folder consists of two text files, negative_words.txt and positive_words.txt. Both these documents are used to calculate positive and negative scores (look for these terms in the “Text Analysis.docx” file for more information).
--**Stop Words:** The folder consists of different text files containing a list of stop words that are used to clean the text so that sentiment analysis can be performed by excluding the words found in these lists.
--**Input.xlsx:** This file contains a list of URLs used to extract text from the corresponding webpage.
--**Output Data Structure.xlxs:** Demonstrates how the output variables will be stored with respect to the given URL.
--**Text Analysis.docx:** The objective of this document is to explain the methodology adopted to perform text analysis to drive sentimental opinion, sentiment scores, readability, passive words, personal pronouns, etc.
--**Things to Consider:** The text file explains the changes a person needs to make in the code before executing it.
--**Executable_File:** Python Script
+- **Master Dictionary:** The folder consists of two text files, negative_words.txt and positive_words.txt. Both these documents are used to calculate positive and negative scores (look for these terms in the “Text Analysis.docx” file for more information).
+- **Stop Words:** The folder consists of different text files containing a list of stop words that are used to clean the text so that sentiment analysis can be performed by excluding the words found in these lists.
+- **Input.xlsx:** This file contains a list of URLs used to extract text from the corresponding webpage.
+- **Output Data Structure.xlxs:** Demonstrates how the output variables will be stored with respect to the given URL.
+- **Text Analysis.docx:** The objective of this document is to explain the methodology adopted to perform text analysis to drive sentimental opinion, sentiment scores, readability, passive words, personal pronouns, etc.
+- **Things to Consider:** The text file explains the changes a person needs to make in the code before executing it.
+- **Executable_File:** Python Script
 
 
 
