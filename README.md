@@ -1,4 +1,4 @@
-# Data-Extraction-and-NLP
+# Data Extraction and NLP
 
 ## Objective
 The objective is to extract textual data articles from the given URL and perform text analysis to compute variables that are used in NLP (Natural Language Processing).
